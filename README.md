@@ -1,8 +1,7 @@
 # minishell_shl13_execute
 execute version of minishell shl13 
  
- 
-## you can't do 'make'
+ 실행을 위해서 올려보는 파일입니다. 
 
 ## 실행방법 
 ```
